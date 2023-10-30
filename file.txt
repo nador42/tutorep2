@@ -2,3 +2,4 @@ practicing git
 je continue à travailler sur ce fichier
 ajoutons une ligne suplémentaire au fichier
 voici une quatrieme ligne
+Ajout du feature A
